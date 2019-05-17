@@ -1,6 +1,3 @@
-from lxml.html import fromstring
-from random import randint
-from proxy import Proxy
 import requests
 import re
 import time
